@@ -620,7 +620,7 @@ static void ApplyCustomStyle() {
 // 設定の保存・読み込み (JSON)
 //   - プリセット(手動): 生成パラメータ / 出力設定 / テーマ
 //   - 自動設定: 上記 + 最後に開いたファイル・ウィンドウ位置・表示設定など。
-//     exe と同じフォルダの vsq2vmd_settings.json に、変更されたとき・終了時に自動保存し、
+//     exe と同じフォルダの VyricSync_settings.json に、変更されたとき・終了時に自動保存し、
 //     次回起動時に自動で読み込む。
 // ---------------------------------------------------------------------------
 static std::string JsonEscape(const std::string& s) {
@@ -1000,7 +1000,7 @@ static std::wstring GetExeDir() {
     size_t s = p.find_last_of(L"\\/");
     return s == std::wstring::npos ? L"" : p.substr(0, s + 1);
 }
-static std::wstring SettingsPath() { return GetExeDir() + L"vsq2vmd_settings.json"; }
+static std::wstring SettingsPath() { return GetExeDir() + L"VyricSync_settings.json"; }
 
 // --- 翻訳ファイル (res/lang/*.json) ---
 static std::wstring LangDir() { return GetExeDir() + L"res\\lang\\"; }
@@ -2820,7 +2820,7 @@ static void MorphField(const char* label, char* buf, size_t sz, int slot) {
 //   各項目は独立したウィンドウ。タイトルバーのドラッグで移動・他のウィンドウとタブ化・
 //   画面端へのドッキングができ、境界線のドラッグで大きさ(比率)を変えられる。
 //   (docking ブランチの ImGui なら、本体の外へ分離して別ウィンドウにもできる)
-//   配置は vsq2vmd_ui.ini に自動保存される。
+//   配置は VyricSync_ui.ini に自動保存される。
 // ---------------------------------------------------------------------------
 enum { W_TRACKS, W_TIMELINE, W_PREVIEW, W_FILE, W_PARAM, W_OUTPUT, W_PRESET };
 static const char* const kWinTitles[kWinCount] = {
@@ -4697,7 +4697,7 @@ int WINAPI WinMain(HINSTANCE hInst, HINSTANCE, LPSTR, int nCmdShow) {
     }
 
     WNDCLASSEXW wc = { sizeof(wc), CS_CLASSDC, WndProc, 0, 0, hInst, nullptr, nullptr, nullptr, nullptr,
-                       L"Vsq2VmdImGuiWindow", nullptr };
+                       L"VyricSyncImGuiWindow", nullptr };
     RegisterClassExW(&wc);
     g_hwnd = CreateWindowW(wc.lpszClassName, L"VSQX/VSQ -> VMD 口パク変換 (ImGui)",
         WS_OVERLAPPEDWINDOW, g_winX, g_winY, g_winW, g_winH,
