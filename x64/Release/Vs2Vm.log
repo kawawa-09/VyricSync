@@ -1,0 +1,771 @@
+﻿  gui_imgui.cpp
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_imgui.cpp(27,9): warning C4005: 'NOMINMAX': マクロが再定義されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_imgui.cpp(27,9):
+      'NOMINMAX' は以前にコマンド ラインで宣言されています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_imgui.cpp(28,9): warning C4005: 'UNICODE': マクロが再定義されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_imgui.cpp(28,9):
+      'UNICODE' は以前にコマンド ラインで宣言されています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_imgui.cpp(29,9): warning C4005: '_UNICODE': マクロが再定義されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_imgui.cpp(29,9):
+      '_UNICODE' は以前にコマンド ラインで宣言されています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_imgui.cpp(37,10): error C1083: include ファイルを開けません。'imgui.h':No such file or directory
+  gui_win32.cpp
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_win32.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_win32.cpp(10,9): warning C4005: 'NOMINMAX': マクロが再定義されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_win32.cpp(10,9):
+      'NOMINMAX' は以前にコマンド ラインで宣言されています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_win32.cpp(11,9): warning C4005: 'UNICODE': マクロが再定義されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_win32.cpp(11,9):
+      'UNICODE' は以前にコマンド ラインで宣言されています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_win32.cpp(12,9): warning C4005: '_UNICODE': マクロが再定義されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\gui_win32.cpp(12,9):
+      '_UNICODE' は以前にコマンド ラインで宣言されています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(107,9): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(109,26): error C2065: 'cp': 定義されていない識別子です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(110,9): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(110,28): error C2143: 構文エラー: ';' が '{' の前にありません。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(110,28): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(118,9): error C2059: 構文エラー: 'return'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,9): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,42): error C3861: 'SjisKanaTable': 識別子が見つかりませんでした
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,57): error C2059: 構文エラー: ')'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,59): error C3646: 'rev': 不明なオーバーライド指定子です
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,42): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,62): error C2059: 構文エラー: '['
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,63): error C3927: '->': 後続の戻り値の型は、関数以外の宣言子の後に許可されていません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,65): error C3484: 構文エラー: 戻り値の型の前に '->' が必要です
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,66): error C3613: '->' の後に戻り型が指定されていません ('int' と見なされます)
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,63): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,66): error C2146: 構文エラー: ';' が、識別子 'second' の前に必要です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(125,27): error C2065: 'in': 定義されていない識別子です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(126,9): error C2059: 構文エラー: 'while'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(126,23): error C2143: 構文エラー: ';' が '{' の前にありません。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(126,23): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(136,9): error C2059: 構文エラー: 'return'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(137,5): error C2059: 構文エラー: '}'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(137,5): error C2143: 構文エラー: ';' が '}' の前にありません。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(139,89): error C2143: 構文エラー: ';' が '{' の前にありません。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(139,89): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(167,13): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(167,47): error C2238: ';' の前に無効なトークンがあります。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(168,18): error C2853: 'it': 非静的データ メンバーは、'auto' を含む型にできません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(170,13): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(170,61): error C2238: ';' の前に無効なトークンがあります。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(171,13): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(171,58): error C2238: ';' の前に無効なトークンがあります。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(172,18): error C2853: 'p2': 非静的データ メンバーは、'auto' を含む型にできません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(172,33): error C2853: 'p1': 非静的データ メンバーは、'auto' を含む型にできません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(173,13): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(173,55): error C2238: ';' の前に無効なトークンがあります。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(175,13): error C2059: 構文エラー: 'return'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(175,62): error C2238: ';' の前に無効なトークンがあります。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(177,5): error C2059: 構文エラー: '}'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(177,5): error C2143: 構文エラー: ';' が '}' の前にありません。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(168,64): error C2065: 'tick': 定義されていない識別子です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(176,9):
+      コンパイラでのこの診断により関数 'Curve::Curve(void)' が生成されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(349,19):
+      関数 'Curve::Curve(void)' のリファレンスをご覧ください
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(172,23): error C2100: 型 '<error type>' のオペランドを逆参照することはできません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(176,9):
+      コンパイラでのこの診断により関数 'Curve::Curve(void)' が生成されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(349,19):
+      関数 'Curve::Curve(void)' のリファレンスをご覧ください
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(172,38): error C2100: 型 'int' のオペランドを逆参照することはできません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(176,9):
+      コンパイラでのこの診断により関数 'Curve::Curve(void)' が生成されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(349,19):
+      関数 'Curve::Curve(void)' のリファレンスをご覧ください
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(174,34): error C2065: 'tick': 定義されていない識別子です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(176,9):
+      コンパイラでのこの診断により関数 'Curve::Curve(void)' が生成されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(349,19):
+      関数 'Curve::Curve(void)' のリファレンスをご覧ください
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(420,77): error C2001: 定数が 2 行目に続いています。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(421,13): error C2146: 構文エラー: ')' が、識別子 'uint32_t' の前に必要です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(421,13): error C2146: 構文エラー: ';' が、識別子 'uint32_t' の前に必要です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(447,60): error C3861: 'SjisDecode': 識別子が見つかりませんでした
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(447,45): error C2593: '演算子 =' があいまいです
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(1453,32):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem)' の可能性があります
+          with
+          [
+              _Elem=char
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(1445,32):
+      または 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(1394,32):
+      または 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(1345,32):
+      または 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)'
+          with
+          [
+              _Elem=char
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(1224,32):
+      または 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) noexcept'
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(447,45):
+      引数リスト '(std::string, <error type>)' を一致させようとしているとき
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(481,53): error C2512: 'Curve': クラス、構造体、共用体に既定のコンストラクターがありません。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(481,53):
+      集約の初期化が無効です
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(482,52): error C2512: 'Curve': クラス、構造体、共用体に既定のコンストラクターがありません。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(482,52):
+      集約の初期化が無効です
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(502,9): error C2318: この catch ハンドラーと関連付けられた try ブロックはありません。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(591,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(604,17): error C3688: リテラル サフィックス '縺・' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""縺・' が見つかりません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(604,129): error C2001: 定数が 2 行目に続いています。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(605,13): error C2146: 構文エラー: ')' が、識別子 'add' の前に必要です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(604,93): error C2064: 1 引数を取り込む関数には評価されません。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(604,93):
+      クラスは 'operator()' またはユーザー定義変換演算子をポインターから関数、または正しい数の引数を必要とする参照から関数の定義を行いません。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(604,93):
+      引数リスト '(const char [31])' を一致させようとしているとき
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(605,13): error C2146: 構文エラー: ';' が、識別子 'add' の前に必要です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(605,17): error C3688: リテラル サフィックス '縺・' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""縺・' が見つかりません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(608,65): error C3680: ユーザー定義文字列リテラルを、一致しないリテラル サフィックス識別子と連結することはできません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(608,65):
+      サフィックス 'k' とサフィックス '縺後℃縺舌￡縺・' を連結しています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(608,18): error C3688: リテラル サフィックス 'k' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""k' が見つかりません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(609,68): error C3872: '0xa7': この文字を識別子で使用することはできません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(609,68): error C3872: '0x25cf': この文字を識別子で使用することはできません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(609,68): error C3680: ユーザー定義文字列リテラルを、一致しないリテラル サフィックス識別子と連結することはできません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(609,68):
+      サフィックス 's' とサフィックス '縺悶§縺壹●縺・' を連結しています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(609,18): error C3688: リテラル サフィックス 's' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""s' が見つかりません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(613,123): error C2059: 構文エラー: '定数'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(613,124): error C2001: 定数が 2 行目に続いています。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(614,13): error C2143: 構文エラー: ';' が '}' の前にありません。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(616,30): error C2065: 'rows': 定義されていない識別子です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(616,24): error C2530: 'row': 参照が初期化されずに宣言されています。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(616,24): error C3531: 'row': 'auto' を含む型のシンボルには初期化子が必要です
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(616,28): error C2143: 構文エラー: ';' が ':' の前にありません。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(616,34): error C2143: 構文エラー: ';' が ')' の前にありません。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(617,28): error C3861: 'Utf8Decode': 識別子が見つかりませんでした
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(618,49): error C3861: 'Utf8Encode': 識別子が見つかりませんでした
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(618,45): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,52): error C3680: ユーザー定義文字列リテラルを、一致しないリテラル サフィックス識別子と連結することはできません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,52):
+      サフィックス 'j' とサフィックス '繧・' を連結しています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,17): error C3688: リテラル サフィックス 'j' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""j' が見つかりません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,13): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,138): error C2001: 定数が 2 行目に続いています。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,103): error C3688: リテラル サフィックス 'j' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""j' が見つかりません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(621,13): error C2146: 構文エラー: ')' が、識別子 'add' の前に必要です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,99): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(621,13): error C2146: 構文エラー: ';' が、識別子 'add' の前に必要です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(621,52): error C3680: ユーザー定義文字列リテラルを、一致しないリテラル サフィックス識別子と連結することはできません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(621,52):
+      サフィックス 'w' とサフィックス '繧・' を連結しています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(621,17): error C3688: リテラル サフィックス 'w' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""w' が見つかりません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(621,13): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(622,51): error C2001: 定数が 2 行目に続いています。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(623,13): error C2146: 構文エラー: ')' が、識別子 'add' の前に必要です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(622,13): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(623,13): error C2146: 構文エラー: ';' が、識別子 'add' の前に必要です。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(623,13): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(623,57): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(626,45): error C3680: ユーザー定義文字列リテラルを、一致しないリテラル サフィックス識別子と連結することはできません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(626,45):
+      サフィックス 'k' とサフィックス '縺・' を連結しています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(626,18): error C3688: リテラル サフィックス 'k' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""k' が見つかりません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(626,112): error C3680: ユーザー定義文字列リテラルを、一致しないリテラル サフィックス識別子と連結することはできません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(626,112):
+      サフィックス 's' とサフィックス '縺・' を連結しています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(626,82): error C3688: リテラル サフィックス 's' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""s' が見つかりません
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(629,81): error C2059: 構文エラー: '定数'
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(629,82): error C2001: 定数が 2 行目に続いています。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(630,13): error C2143: 構文エラー: ';' が '}' の前にありません。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(630,13): error C1003: プログラム内のエラーが 100 個を超えました。コンパイルは中断されます。
+  (ソース ファイル 'gui_win32.cpp' をコンパイルしています)
+  
+  test_main.cpp
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\test_main.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(107,9): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(109,26): error C2065: 'cp': 定義されていない識別子です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(110,9): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(110,28): error C2143: 構文エラー: ';' が '{' の前にありません。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(110,28): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(118,9): error C2059: 構文エラー: 'return'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,9): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,42): error C3861: 'SjisKanaTable': 識別子が見つかりませんでした
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,57): error C2059: 構文エラー: ')'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,59): error C3646: 'rev': 不明なオーバーライド指定子です
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,42): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,62): error C2059: 構文エラー: '['
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,63): error C3927: '->': 後続の戻り値の型は、関数以外の宣言子の後に許可されていません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,65): error C3484: 構文エラー: 戻り値の型の前に '->' が必要です
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,66): error C3613: '->' の後に戻り型が指定されていません ('int' と見なされます)
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,63): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(123,66): error C2146: 構文エラー: ';' が、識別子 'second' の前に必要です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(125,27): error C2065: 'in': 定義されていない識別子です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(126,9): error C2059: 構文エラー: 'while'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(126,23): error C2143: 構文エラー: ';' が '{' の前にありません。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(126,23): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(136,9): error C2059: 構文エラー: 'return'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(137,5): error C2059: 構文エラー: '}'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(137,5): error C2143: 構文エラー: ';' が '}' の前にありません。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(139,89): error C2143: 構文エラー: ';' が '{' の前にありません。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(139,89): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(167,13): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(167,47): error C2238: ';' の前に無効なトークンがあります。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(168,18): error C2853: 'it': 非静的データ メンバーは、'auto' を含む型にできません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(170,13): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(170,61): error C2238: ';' の前に無効なトークンがあります。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(171,13): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(171,58): error C2238: ';' の前に無効なトークンがあります。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(172,18): error C2853: 'p2': 非静的データ メンバーは、'auto' を含む型にできません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(172,33): error C2853: 'p1': 非静的データ メンバーは、'auto' を含む型にできません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(173,13): error C2059: 構文エラー: 'if'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(173,55): error C2238: ';' の前に無効なトークンがあります。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(175,13): error C2059: 構文エラー: 'return'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(175,62): error C2238: ';' の前に無効なトークンがあります。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(177,5): error C2059: 構文エラー: '}'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(177,5): error C2143: 構文エラー: ';' が '}' の前にありません。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(168,64): error C2065: 'tick': 定義されていない識別子です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(176,9):
+      コンパイラでのこの診断により関数 'Curve::Curve(void)' が生成されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(349,19):
+      関数 'Curve::Curve(void)' のリファレンスをご覧ください
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(172,23): error C2100: 型 '<error type>' のオペランドを逆参照することはできません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(176,9):
+      コンパイラでのこの診断により関数 'Curve::Curve(void)' が生成されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(349,19):
+      関数 'Curve::Curve(void)' のリファレンスをご覧ください
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(172,38): error C2100: 型 'int' のオペランドを逆参照することはできません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(176,9):
+      コンパイラでのこの診断により関数 'Curve::Curve(void)' が生成されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(349,19):
+      関数 'Curve::Curve(void)' のリファレンスをご覧ください
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(174,34): error C2065: 'tick': 定義されていない識別子です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(176,9):
+      コンパイラでのこの診断により関数 'Curve::Curve(void)' が生成されました。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(349,19):
+      関数 'Curve::Curve(void)' のリファレンスをご覧ください
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(420,77): error C2001: 定数が 2 行目に続いています。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(421,13): error C2146: 構文エラー: ')' が、識別子 'uint32_t' の前に必要です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(421,13): error C2146: 構文エラー: ';' が、識別子 'uint32_t' の前に必要です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(447,60): error C3861: 'SjisDecode': 識別子が見つかりませんでした
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(447,45): error C2593: '演算子 =' があいまいです
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(1453,32):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem)' の可能性があります
+          with
+          [
+              _Elem=char
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(1445,32):
+      または 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(1394,32):
+      または 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(1345,32):
+      または 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)'
+          with
+          [
+              _Elem=char
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(1224,32):
+      または 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) noexcept'
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(447,45):
+      引数リスト '(std::string, <error type>)' を一致させようとしているとき
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(481,53): error C2512: 'Curve': クラス、構造体、共用体に既定のコンストラクターがありません。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(481,53):
+      集約の初期化が無効です
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(482,52): error C2512: 'Curve': クラス、構造体、共用体に既定のコンストラクターがありません。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(482,52):
+      集約の初期化が無効です
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(502,9): error C2318: この catch ハンドラーと関連付けられた try ブロックはありません。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(591,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(604,17): error C3688: リテラル サフィックス '縺・' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""縺・' が見つかりません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(604,129): error C2001: 定数が 2 行目に続いています。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(605,13): error C2146: 構文エラー: ')' が、識別子 'add' の前に必要です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(604,93): error C2064: 1 引数を取り込む関数には評価されません。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(604,93):
+      クラスは 'operator()' またはユーザー定義変換演算子をポインターから関数、または正しい数の引数を必要とする参照から関数の定義を行いません。
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(604,93):
+      引数リスト '(const char [31])' を一致させようとしているとき
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(605,13): error C2146: 構文エラー: ';' が、識別子 'add' の前に必要です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(605,17): error C3688: リテラル サフィックス '縺・' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""縺・' が見つかりません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(608,65): error C3680: ユーザー定義文字列リテラルを、一致しないリテラル サフィックス識別子と連結することはできません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(608,65):
+      サフィックス 'k' とサフィックス '縺後℃縺舌￡縺・' を連結しています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(608,18): error C3688: リテラル サフィックス 'k' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""k' が見つかりません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(609,68): error C3872: '0xa7': この文字を識別子で使用することはできません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(609,68): error C3872: '0x25cf': この文字を識別子で使用することはできません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(609,68): error C3680: ユーザー定義文字列リテラルを、一致しないリテラル サフィックス識別子と連結することはできません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(609,68):
+      サフィックス 's' とサフィックス '縺悶§縺壹●縺・' を連結しています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(609,18): error C3688: リテラル サフィックス 's' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""s' が見つかりません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(613,123): error C2059: 構文エラー: '定数'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(613,124): error C2001: 定数が 2 行目に続いています。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(614,13): error C2143: 構文エラー: ';' が '}' の前にありません。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(616,30): error C2065: 'rows': 定義されていない識別子です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(616,24): error C2530: 'row': 参照が初期化されずに宣言されています。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(616,24): error C3531: 'row': 'auto' を含む型のシンボルには初期化子が必要です
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(616,28): error C2143: 構文エラー: ';' が ':' の前にありません。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(616,34): error C2143: 構文エラー: ';' が ')' の前にありません。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(617,28): error C3861: 'Utf8Decode': 識別子が見つかりませんでした
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(618,49): error C3861: 'Utf8Encode': 識別子が見つかりませんでした
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(618,45): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,52): error C3680: ユーザー定義文字列リテラルを、一致しないリテラル サフィックス識別子と連結することはできません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,52):
+      サフィックス 'j' とサフィックス '繧・' を連結しています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,17): error C3688: リテラル サフィックス 'j' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""j' が見つかりません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,13): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,138): error C2001: 定数が 2 行目に続いています。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,103): error C3688: リテラル サフィックス 'j' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""j' が見つかりません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(621,13): error C2146: 構文エラー: ')' が、識別子 'add' の前に必要です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(620,99): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(621,13): error C2146: 構文エラー: ';' が、識別子 'add' の前に必要です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(621,52): error C3680: ユーザー定義文字列リテラルを、一致しないリテラル サフィックス識別子と連結することはできません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(621,52):
+      サフィックス 'w' とサフィックス '繧・' を連結しています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(621,17): error C3688: リテラル サフィックス 'w' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""w' が見つかりません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(621,13): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(622,51): error C2001: 定数が 2 行目に続いています。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(623,13): error C2146: 構文エラー: ')' が、識別子 'add' の前に必要です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(622,13): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(623,13): error C2146: 構文エラー: ';' が、識別子 'add' の前に必要です。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(623,13): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(623,57): error C3861: 'add': 識別子が見つかりませんでした
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(626,45): error C3680: ユーザー定義文字列リテラルを、一致しないリテラル サフィックス識別子と連結することはできません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(626,45):
+      サフィックス 'k' とサフィックス '縺・' を連結しています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(626,18): error C3688: リテラル サフィックス 'k' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""k' が見つかりません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(626,112): error C3680: ユーザー定義文字列リテラルを、一致しないリテラル サフィックス識別子と連結することはできません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+      C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(626,112):
+      サフィックス 's' とサフィックス '縺・' を連結しています
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(626,82): error C3688: リテラル サフィックス 's' が無効です。リテラル演算子またはリテラル演算子テンプレート 'operator ""s' が見つかりません
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(629,81): error C2059: 構文エラー: '定数'
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(629,82): error C2001: 定数が 2 行目に続いています。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(630,13): error C2143: 構文エラー: ';' が '}' の前にありません。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\vsqcore.h(630,13): error C1003: プログラム内のエラーが 100 個を超えました。コンパイルは中断されます。
+  (ソース ファイル 'test_main.cpp' をコンパイルしています)
+  
+C:\Users\kawar\source\repos\Vs2Vm\Vs2Vm\x64\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cpp(1,8): error C1190: System::object が見つかりません。/clr オプションまたは標準アセンブリのインポートが欠落している可能性があります。
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  コードを生成中...
