@@ -1,4 +1,4 @@
-﻿// gui_imgui.cpp --------------------------------------------------------------
+// gui_imgui.cpp --------------------------------------------------------------
 // VSQX/VSQ -> VMD 口パク変換 GUI (Dear ImGui版, Win32 + DirectX11)
 //
 // 必要なもの:
@@ -63,10 +63,10 @@
 #endif
 #endif
 
-#include "imgui.h"
-#include "imgui_internal.h"   // ドラッグ中のウィンドウの取得 (ガイド表示・吸着)
-#include "imgui_impl_win32.h"
-#include "imgui_impl_dx11.h"
+#include "thirdparty/imgui/imgui.h"
+#include "thirdparty/imgui/imgui_internal.h"   // ドラッグ中のウィンドウの取得 (ガイド表示・吸着)
+#include "thirdparty/imgui/backends/imgui_impl_win32.h"
+#include "thirdparty/imgui/backends/imgui_impl_dx11.h"
 #include "vsqcore.h"
 #include "projectfile.h"
 #include "mmdmodel.h"
